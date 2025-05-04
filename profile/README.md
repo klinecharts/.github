@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://klinecharts.com/images/logo.svg?hash=89987fs7789" height="160">
+<img src="https://klinecharts.com/images/logo.svg?hash=89987fs7789" height="120">
 </p>
 
 <h1 align="center">
